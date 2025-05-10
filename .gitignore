@@ -1,0 +1,7 @@
+# コンパイルされたクラスファイル
+*.class
+
+# Eclipse IDE
+.classpath
+.project
+.settings/
